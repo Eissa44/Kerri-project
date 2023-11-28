@@ -46,6 +46,7 @@ h6 {
   --bgColor: #f8f9fa;
 }
 /* END GENERAL STYLE */
+
 /* START OF NAV */
 .navbar-nav .nav-link.active,
 .navbar-nav .nav-link.show {
@@ -75,7 +76,9 @@ h6 {
     font-size: 2.5rem;
   }
 }
-/* END OF NAV */ /* START OF HEADER */
+/* END OF NAV */
+
+/* START OF HEADER */
 #home {
   background-image: linear-gradient(#111111c0, #111111c7),
     url(../imgs/header-bg.jpg);
@@ -142,6 +145,7 @@ h6 {
   }
 }
 /* END OF HEADER */
+
 /* START OF ABOUT */
 .text-pink {
   color: var(--mainColor);
@@ -199,6 +203,7 @@ h6 {
   background-color: var(--secondColor);
 }
 /* END OF SERVICES */
+
 /* START OF SLIDER */
 #client {
   background-color: var(--bgColor);
